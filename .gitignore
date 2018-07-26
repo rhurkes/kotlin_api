@@ -1,0 +1,7 @@
+/build/
+.gradle
+gradlew.bat
+!gradle/wrapper/gradle-wrapper.jar
+
+# mac
+.DS_Store
